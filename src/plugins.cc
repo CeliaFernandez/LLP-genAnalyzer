@@ -1,7 +1,7 @@
 #include "FWCore/Framework/interface/MakerMacros.h"
 
-#include "Analysis/globalDisplaced-Analyzer/src/DGAnalysis.h"
-DEFINE_FWK_MODULE(DGAnalysis);
+#include "Analysis/LLP-genAnalyzer/src/LLPAnalysis.h"
+DEFINE_FWK_MODULE(LLPAnalysis);
 // Local Variables:
 // show-trailing-whitespace: t
 // truncate-lines: t
